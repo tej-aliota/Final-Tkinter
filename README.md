@@ -16,3 +16,4 @@ goes through all the steps on a notepad at the beginning to give an overview of 
 
 WORK:
 ![image](https://github.com/tej-aliota/Final-Tkinter/assets/142935901/7d85e985-6044-4da0-8ae1-ca609f21f4bd)
+I ended up making the number generator. It was simple but worked nice. Along the way I was also able to learn how to use vs code which was really fun and helpful in the long term.
